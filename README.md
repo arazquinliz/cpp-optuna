@@ -16,5 +16,7 @@ The trials, runtime, and parameter ranges can be tuned within cpp-optuna.py. The
 More elegant ways of using Optuna for C++ exist, but this code offers a simple option with no Python bindings. It is not recommended for computationally heavy C++ algorithms. By changing the .py file other optimization software could also be used. 
 
 Author: A. Razquin
+
 Date  : April 29 2023
+
 Email : amaiafisika@gmail.com
