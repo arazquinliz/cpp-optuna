@@ -1,4 +1,4 @@
-# optuna-cpp
+# cpp-optuna
 Run [Optuna](https://optuna.org/) hyperparameter optimization software for a C++ program without Python bindings.
 
 The program [cpp-optuna.py](https://github.com/arazquinliz/optuna-cpp/blob/main/cpp-optuna.py) runs a Optuna hyperparameter optimization run to optimize the arguments for a C++ program, [test.cpp](https://github.com/arazquinliz/optuna-cpp/blob/main/test.cpp). 
